@@ -1,0 +1,16 @@
+.header{
+  height: 10vh;
+  background: #000046;  
+  background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  
+  background: linear-gradient(to right, #1CB5E0, #000046); 
+}
+
+.titulo a {
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   height: 100%;
+   width: 100%;
+   font-weight: bold;
+   cursor: default;  
+}

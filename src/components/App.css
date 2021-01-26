@@ -1,0 +1,30 @@
+
+.contenedor-form{
+    height: 100%;
+    background:url(./media/clima.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.contenedorApp{
+  height: 90vh;
+    width: 90%;
+    margin:8% auto 0 auto;
+}
+.contenedorApp .form {
+  background:rgba(255, 255, 255, 0.6);
+  padding:50px;
+  border-radius: 10px;
+}
+
+.errorApp{
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

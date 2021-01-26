@@ -1,0 +1,40 @@
+.climaCard{
+    background:rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+}
+.climaCard h2 {
+   text-align: center;
+   font-weight: bold;
+}
+
+.climaCard h5{
+    text-align: center;
+   font-weight: bold;
+}
+
+.imgClima {
+    margin:auto;
+    width: 40%;
+}
+
+.imgClima img {
+    border-radius: 10px;
+}
+
+.black-text2{
+    display:flex;
+    justify-content: center;
+}
+
+.TemperaturaMax{
+    
+    margin-right: 1%;
+    padding-right:15px ;
+    
+}
+
+.TemperaturaMin{
+   padding-left: 15px ;
+    margin-left: 1%;
+}
+    

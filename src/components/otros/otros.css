@@ -1,0 +1,43 @@
+.otros{
+    display: flex;
+    justify-content: space-evenly ;
+    margin-bottom: 50px;
+    margin-top:-5vh;
+  }
+
+  .card-otros{
+      width: 30%;
+      background:rgba(255, 255, 255, 0.6);
+      border-radius: 10px;
+  }
+
+ .text {
+      text-align: center;
+      color:black;
+  }
+
+  .img-humedad{
+      width: 40%;
+      height: 200px;
+      margin:auto;
+  }
+
+  .img-presion{
+    width: 55%;
+    margin:auto;
+    height: 200px;
+}
+
+  .img-humedad img{
+    border-radius: 10px;
+  }
+  .img-vientos img{
+    border-radius: 10px;
+  }
+
+  .img-vientos{
+    width: 55%;
+    margin:auto;
+    height: 200px;
+  }
+
