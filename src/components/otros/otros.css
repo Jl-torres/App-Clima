@@ -41,3 +41,16 @@
     height: 200px;
   }
 
+  @media screen and (max-width: 800px) {
+    .otros{
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 50px;
+      margin-top:250px;
+    }
+    .card-otros{
+      width: 80%;
+      margin:30px auto;
+  }
+  }
+  
