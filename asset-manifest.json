@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/App-Clima/static/css/main.7c0b5e72.chunk.css",
+    "main.js": "/App-Clima/static/js/main.99e4545c.chunk.js",
+    "main.js.map": "/App-Clima/static/js/main.99e4545c.chunk.js.map",
+    "runtime-main.js": "/App-Clima/static/js/runtime-main.a494e619.js",
+    "runtime-main.js.map": "/App-Clima/static/js/runtime-main.a494e619.js.map",
+    "static/js/2.18ca5f18.chunk.js": "/App-Clima/static/js/2.18ca5f18.chunk.js",
+    "static/js/2.18ca5f18.chunk.js.map": "/App-Clima/static/js/2.18ca5f18.chunk.js.map",
+    "static/js/3.03a00ef3.chunk.js": "/App-Clima/static/js/3.03a00ef3.chunk.js",
+    "static/js/3.03a00ef3.chunk.js.map": "/App-Clima/static/js/3.03a00ef3.chunk.js.map",
+    "index.html": "/App-Clima/index.html",
+    "static/css/main.7c0b5e72.chunk.css.map": "/App-Clima/static/css/main.7c0b5e72.chunk.css.map",
+    "static/js/2.18ca5f18.chunk.js.LICENSE.txt": "/App-Clima/static/js/2.18ca5f18.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/App-Clima/static/media/clima.4a961c9f.jpg",
+    "static/media/climalogo.0f2e3b86.png": "/App-Clima/static/media/climalogo.0f2e3b86.png",
+    "static/media/humedad.8a5e17fc.png": "/App-Clima/static/media/humedad.8a5e17fc.png",
+    "static/media/presion.12781bff.png": "/App-Clima/static/media/presion.12781bff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a494e619.js",
+    "static/js/2.18ca5f18.chunk.js",
+    "static/css/main.7c0b5e72.chunk.css",
+    "static/js/main.99e4545c.chunk.js"
+  ]
+}
